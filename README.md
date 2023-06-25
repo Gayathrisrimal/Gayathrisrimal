@@ -2,7 +2,8 @@
 - 👀 I’m interested in Salesforce.
 - 🌱 I’m currently learning ..salesforce.developer
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me gayathri. srimal@gmail.com
+- 📫 How to reach me  
+gayathri.srimal@gmail.com
 ...
 
 <!---
